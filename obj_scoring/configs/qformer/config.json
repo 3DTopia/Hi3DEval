@@ -1,0 +1,29 @@
+{
+  "_commit_hash": null,
+  "_name_or_path": "",
+  "architectures": [
+    "Blip2Qformer"
+  ],
+  "auto_map": {
+    "AutoConfig": "configuration_qformer.BertConfig",
+    "AutoModel": "modeling_qformer.Blip2Qformer"
+  },
+  "num_query_token": 1,
+  "hidden_size": 1024,
+  "fuser_config": {
+    "hidden_size": 1024,
+    "encoder_width": 1024,
+    "num_attention_heads": 8,
+    "num_hidden_layers": 4,
+    "add_cross_attention": true,
+    "cross_attention_freq": 2
+  },
+  "qformer_config": {
+    "hidden_size": 1024,
+    "encoder_width": 1024,
+    "num_attention_heads": 16,
+    "num_hidden_layers": 12,
+    "add_cross_attention": true,
+    "cross_attention_freq": 2
+  }
+}
