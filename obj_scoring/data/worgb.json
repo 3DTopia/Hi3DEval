@@ -1,0 +1,15 @@
+[
+    {
+        "video": [
+            "your/path/normal.gif"
+        ],
+        "prompt": "your/path/prompt.png or text",
+        "score": [
+            -1,
+            -1,
+            -1,
+            -1,
+            -1
+        ]
+    }
+]
