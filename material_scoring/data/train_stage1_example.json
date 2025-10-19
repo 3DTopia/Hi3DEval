@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "a rendering video under indoor lighting of a 3D model",
+        "video": "train/video.mp4",
+        "prompt": "The overall color of this thimble is mainly brownish-yellow, with multiple horizontal white dashed lines on the sides, and the overall shape is approximately cylindrical, with the middle part being completely hollow and not symmetrical"
+    }
+]

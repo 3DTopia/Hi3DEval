@@ -1,0 +1,7 @@
+[
+    {
+        "video": "test/video.mp4",
+        "prompt": "text prompt or /path/to/image/prompt",
+        "score": 2.0
+    }
+]
